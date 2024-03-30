@@ -6,10 +6,20 @@ This is a work proposed in the Curricular Unit of Analysis of Biological Sequenc
 -Python3
 
 -Biopython (Entrez & SeqIO)
-# Packages Instalation
+# Instalation
+## PIP command
+### For python3
+`sudo apt install python3-pip`
+## Biopython
 `pip install biopython`
 # Tutorial
-`python3 script.py database "term"`
+`python3 script.py database term`
+## Script.py
+The python script you are going to run.
+## Database
+The name of the database (nucleotide, protein, genome or gene).
+## Term
+The term you wanna search in the database. Make sure to write it between quotation marks.
 # Example
 `python3 homework1_asb.py nucleotide "Psammodromus algirus[organism], cytb[gene]"` 
 # Credits
