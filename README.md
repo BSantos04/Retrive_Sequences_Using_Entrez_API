@@ -7,11 +7,11 @@ This is a work proposed in the Curricular Unit of Analysis of Biological Sequenc
 
 -Biopython (Entrez & SeqIO)
 # Packages Instalation
-pip install biopython
+`pip install biopython`
 # Tutorial
-python3 script.py database "term"
+`python3 script.py database "term"`
 # Example
-python3 homework1_asb.py nucleotide "Psammodromus algirus[organism], cytb[gene]" 
+`python3 homework1_asb.py nucleotide "Psammodromus algirus[organism], cytb[gene]"` 
 # Credits
 https://biopython.org/
 
