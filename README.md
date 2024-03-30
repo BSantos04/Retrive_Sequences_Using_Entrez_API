@@ -1,4 +1,4 @@
-# ASB_Retrive_Sequences_Using_Entrez_API
+# ASB_Retrieve_Sequences_Using_Entrez_API
 This repository contains a python script that retrieves sequences from a database using the E-Utilities from NCBI.
 
 This is a work proposed in the Curricular Unit of Analysis of Biological Sequences from the Bioinformatics course.
