@@ -11,7 +11,7 @@ pip install biopython
 # Tutorial
 python3 script.py database "term"
 # Example
-python3 homewrok1_asb.py nucleotide "Psammodromus algirus[organism], cytb[gene]" 
+python3 homework1_asb.py nucleotide "Psammodromus algirus[organism], cytb[gene]" 
 # Credits
 https://biopython.org/
 
