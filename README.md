@@ -6,7 +6,7 @@ This is a work proposed in the Curricular Unit of Analysis of Biological Sequenc
 -Python3
 
 -Biopython (Entrez & SeqIO)
-# Instalation
+# Packages Instalation
 pip install biopython
 # Tutorial
 python3 script.py database "term"
