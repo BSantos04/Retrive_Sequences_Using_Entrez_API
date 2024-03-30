@@ -20,7 +20,7 @@ The python script we are going to run.
 The name of the database (nucleotide, protein, genome or gene).
 ## Term
 The term we wanna search in the database. Make sure to write it between quotation marks.
-# Example
+## Example
 `python3 homework1_asb.py nucleotide "Psammodromus algirus[organism], cytb[gene]"` 
 # Credits
 https://biopython.org/
