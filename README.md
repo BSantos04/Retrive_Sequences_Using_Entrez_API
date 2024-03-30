@@ -6,7 +6,7 @@ This is a work proposed in the Curricular Unit of Analysis of Biological Sequenc
 -Python3
 
 -Biopython (Entrez & SeqIO)
-# Instalation
+# Installation
 ## PIP command
 ### For python3
 `sudo apt install python3-pip`
