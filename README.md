@@ -15,11 +15,11 @@ This is a work proposed in the Curricular Unit of Analysis of Biological Sequenc
 # Tutorial
 `python3 script.py database term`
 ## Script.py
-The python script you are going to run.
+The python script we are going to run.
 ## Database
 The name of the database (nucleotide, protein, genome or gene).
 ## Term
-The term you wanna search in the database. Make sure to write it between quotation marks.
+The term we wanna search in the database. Make sure to write it between quotation marks.
 # Example
 `python3 homework1_asb.py nucleotide "Psammodromus algirus[organism], cytb[gene]"` 
 # Credits
